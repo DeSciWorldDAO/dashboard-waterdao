@@ -7,14 +7,14 @@
 "gallery":[{
        "name": "Intro",
        "description": "Intro",
-       "mediaUrl": "https://ecotoken.gitbook.io/water-dao-whitepaper/",
+       "mediaUrl": "https://i.imgur.com/s9XQdhf.jpg",
        "source": "image",
-       "link": "https://i.imgur.com/s9XQdhf.jpg"
+       "link": "https://ecotoken.gitbook.io/water-dao-whitepaper/"
    },  {"name": "Intro",
        "description": "Intro",
-       "mediaUrl": "https://www.rh2o.app/",        
+       "mediaUrl": "https://i.imgur.com/A2bMQWp.jpg",        
        "source": "image",
-       "link": "https://i.imgur.com/A2bMQWp.jpg"  }
+       "link": "https://www.rh2o.app/"  }
  
 ],
 "deleted":false,
