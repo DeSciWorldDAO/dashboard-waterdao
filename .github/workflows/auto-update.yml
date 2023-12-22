@@ -27,5 +27,5 @@ jobs:
 
       - uses: dkershner6/post-api-call-action@v1
         with:
-          url: ${{ secrets.API_UPDATE_URL }}/xxx
+          url: ${{ secrets.API_UPDATE_URL }}/waterdao
           headers: "{\"Authorization\": \"${{ secrets.API_KEY }}\"}"
