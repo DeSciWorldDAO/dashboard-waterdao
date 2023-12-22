@@ -1,1 +1,36 @@
+{"name":"WaterLab ",
+"tokenSymbol":" ",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"WaterLab is a decentralized research organization building an open protocol for regenerative water. ",
+"whitePaperLink":"https://ecotoken.gitbook.io/water-dao-whitepaper/",
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://ecotoken.gitbook.io/water-dao-whitepaper/",
+       "source": "image",
+       "link": "https://i.imgur.com/s9XQdhf.jpg"
+   },  {"name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://www.rh2o.app/",        
+       "source": "image",
+       "link": "https://i.imgur.com/A2bMQWp.jpg"  }
+ 
+],
+"deleted":false,
+"primaryColor":"#59d0fb",
+"twitterHandle":"_waterdao",
+"coingeckoId":"",
+"snapshotId":"",
+"logo":"https://i.imgur.com/q4u87lo.jpg",
+"telegramLink":"",
+"discordLink":"",
+"website":"https://www.rh2o.app/",
+"tokenDescription":"",
+"tokenTradeLink":"",
+
+"tags":["Focused Research", "NFTs", "Blockchain protocols"]
+  
+}
+
 
